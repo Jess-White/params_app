@@ -1,0 +1,6 @@
+
+
+{
+  message: @my_message
+  other: @other
+}
